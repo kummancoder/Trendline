@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/3e2c76bf-0aec-46cf-9e22-dd5486dd6803)# Trandline Web Template
+# Trandline Web Template
 
 **Trandline** is a simple, modern, and responsive web template built using **HTML** and **CSS**. Designed with clean lines and minimalistic styling, this template is perfect for personal projects, portfolios, or business websites.
 
